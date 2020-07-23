@@ -75,3 +75,7 @@ becomes:
 
 
 ![Picture 3](https://github-files-jdg.jasperdg.repl.co/SSPY/manualPic3.jpg)
+
+> SSPY by Jasper De Gussemé
+
+> Questions: contact.jdgbe@yahoo.com
